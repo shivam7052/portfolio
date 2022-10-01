@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
+  "engines": { "node": "16.16.0",
+ "npm": "8.19.2"},
   "dependencies": {
-    "node": "^16.16.0",
-    "npm": "^8.19.2",
     "desandro-matches-selector": "^2.0.2",
     "aos": "^2.3.4",
     "dom7": "^4.0.4",
