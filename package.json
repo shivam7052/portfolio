@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "node": "^16.16.0",
+    "npm": "^8.19.2",
     "desandro-matches-selector": "^2.0.2",
     "aos": "^2.3.4",
     "dom7": "^4.0.4",
@@ -49,6 +51,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+
+
+
   "eslintConfig": {
     "extends": [
       "react-app",
